@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harumo.wavefound.net/sitemap.xml
